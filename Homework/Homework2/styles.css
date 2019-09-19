@@ -1,0 +1,24 @@
+﻿/* CSS Document */
+
+.normal {
+    font-size: 12pt;
+    font-family: arial, helvetica, sans;
+}
+
+.normalBold {
+    font-size: 12pt;
+    font-weight: bold;
+    font-family: arial, helvetica, sans;
+}
+
+.normalRed {
+    font-size: 12pt;
+    font-family: arial, helvetica, sans;
+    color: #ff0000;
+}
+
+.header {
+    font-size: 18pt;
+    font-weight: bold;
+    font-family: arial, helvetica, sans;
+}
